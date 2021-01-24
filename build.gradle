@@ -13,7 +13,7 @@ repositories {
 	mavenCentral()
 }
 
-// devtools 의존성 설정.
+// devtools 의존성 설정. 테스트용
 configurations {
 	developmentOnly
 	runtimeClasspath {
